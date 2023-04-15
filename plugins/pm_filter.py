@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>Sorry, I will work in Group Only\n\nJoin & Type Movie Name in our Group 👇\nhttps://t.me/+C6576uw1AE8yMzRl</b>")
+    await message.reply_text("<b>Sorry, I will work in Group Only\n\nJoin & Type Movie Name in our Group 👇\nhttps://t.me/svsteamrequestgroup</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -269,7 +269,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("Hᴏᴡ ᴛᴏ Dᴏᴡɴʟᴏᴀᴅ Fʀᴏᴍ Uʀʟsᴏᴘᴇɴ⚡", url=f"https://t.me/Team_HMT/8")
+        InlineKeyboardButton("Hᴏᴡ ᴛᴏ Dᴏᴡɴʟᴏᴀᴅ Fʀᴏᴍ Uʀʟsᴏᴘᴇɴ⚡", url=f"https://t.me/SVSTEAMSTUDIODISCUSSION/6581")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -616,7 +616,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                   InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                   InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/TeamHMT_Bot")
+                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/PromoterSuryansh")
                  ]
                 ]
             )
@@ -1191,7 +1191,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
                     InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/TeamHMT_Bot")
+                    InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ", url="t.me/PromoterSuryansh")
                   ]]
             await client.edit_message_media(
                 query.message.chat.id, 
@@ -1408,7 +1408,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("Hᴏᴡ ᴛᴏ Dᴏᴡɴʟᴏᴀᴅ Fʀᴏᴍ Uʀʟsᴏᴘᴇɴ⚡", url=f"https://t.me/Team_HMT/8")
+        InlineKeyboardButton("Hᴏᴡ ᴛᴏ Dᴏᴡɴʟᴏᴀᴅ Fʀᴏᴍ Uʀʟsᴏᴘᴇɴ⚡", url=f"https://t.me/SVSTEAMSTUDIODISCUSSION/6581")
     ])
 
     if offset != "":
