@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Kgashok04>☢ Owner Of TTBots ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/TeamHMT_Bots>TT Bot Updates 👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/PromoterSuryansh>☢ Owner Of SVSTEAM'S BOT ☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/svs_team_bot>TT Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -33,7 +33,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/TeamHMT_Bots)</code>
+<code>[Button Text](buttonurl:https://t.me/svs_team_Bot)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -196,8 +196,8 @@ Fᴏʀ Mᴏʀᴇ, Cʟɪᴄᴋ Tʜɪs Cᴏᴍᴍᴀɴᴅ => /shortlink</b>
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/+pl4rB-xx8ltlOTE1> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
-▫️<a href=https://t.me/+ps2An00KwZYwNTRl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/SVSTEAMSTUDIODISCUSSION> ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ </a>
+▫️<a href=https://t.me/SVSLinkZ> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
